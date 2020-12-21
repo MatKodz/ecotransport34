@@ -13,5 +13,5 @@ catch (PDOException $e) {
  die();
  }
 
- // le bloc try tente une connexion à la base de données, en cas d'échec c'est le bloc catch qui est exécuté, en affichant l'erreur et en stoppant l'éxecution des scripts qui suivent
+ // le Bloc try tente une connexion à la base de données, en cas d'échec c'est le bloc catch qui est exécuté, en affichant l'erreur et en stoppant l'éxecution des scripts qui suivent
 ?>
